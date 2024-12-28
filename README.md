@@ -34,6 +34,3 @@ You can then run ```Quiz.py``` to go through the quiz.
 
 ## Usage
 Available for use under MIT license.
-
-## Contribution
-Feel free to join the open-source community and contribute to this repository.
